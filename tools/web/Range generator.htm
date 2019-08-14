@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style></style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Range generator</title>
+</head>
+<body>
+	<script type="text/javascript" src="js/number range generator.js"></script>
+	<div>Input a list of Pokémon number in Pokédex, separated by a linebreak. The output will be a corresponding compressed search text. For example: 1-4,6,8-9</div>
+	<div>Reason for generating it: although we will got the same result for "1-100" (1) and "1,2,3,...,100" (2), the game takes longer time to search for the text (2)</div>
+	<hr>
+	<strong>Input</strong>
+	<br>
+	<textarea id="input" style="width: 100%;" rows="10" onchange="calculate(this)"></textarea>
+	<strong>Output</strong><span> (click on the textbox to copy)</span>	
+	<br>
+	<textarea id="output" style="width: 100%;" rows="10" onclick="autocopy(this)"></textarea>
+</body>
+</html>

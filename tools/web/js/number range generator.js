@@ -6,7 +6,7 @@ class Range {
         this.min = min; this.max = max;
     }
     presentInString() {
-        return this.min + '-' + this.max;
+        return this.min === this.max ? this.min : this.min + '-' + this.max;
     }
 }
 (function () {
@@ -55,3 +55,24 @@ var generateRanges = function (numList) {
     nonLegendSearch = nonLegendSearch.substring(1);
     console.log(nonLegendSearch);
 })();
+function calculate(input) {
+    splittedTexts = input.value.split("\n");
+    var listNum = [];
+    for (var i = 0; i < splittedTexts.length; i++) {
+        //check number format
+        if (/^\d+$/.test(splittedTexts[i])) {
+            listNum.push(parseInt(splittedTexts[i]));
+        }
+    }
+    var ranges = generateRanges(listNum);
+    var searchText = "";
+    for (var i = 0; i < ranges.length; i++) {
+        searchText += "," + ranges[i].presentInString();
+    }
+    searchText = searchText.substring(1);
+    document.getElementById("output").value = searchText;
+}
+function autocopy(e) {
+    e.select();
+    document.execCommand('copy');
+}
