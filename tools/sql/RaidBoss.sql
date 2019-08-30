@@ -1,4 +1,4 @@
---select p.Id,p.FormId from Pokemon p where p.Species like 'Rayquaza'
+--select p.Id,p.FormId,f.[Desc] from Pokemon p join PokeForm f on p.FormId=f.Id where p.Species like 'Deoxys%'
 
 declare @Id int=384
 declare @form int=1
