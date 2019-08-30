@@ -1,0 +1,9 @@
+.vs
+/tools/web-prj/packages
+*.tss
+*.suo
+*.user
+*.pubxml
+# Build results
+[Bb]in/
+[Oo]bj/
