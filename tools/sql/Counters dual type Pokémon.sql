@@ -17,5 +17,6 @@ from #t1 join #t2 on #t1.Id = #t2.Id
 
 select * from #t3
 where #t3.Damage > 1
+order by Damage desc
 go
 drop table #t1;drop table #t2;drop table #t3

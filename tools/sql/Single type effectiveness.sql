@@ -4,3 +4,4 @@ select atk.Id,atk.Name,b.Damage
 from Battle b join [Type] def on b.DefenderMonoTypeId=def.Id join [Type] atk on b.AttackMoveTypeId = atk.Id
 where (def.Id=@type1)
 and b.Damage>1
+order by b.Damage desc
