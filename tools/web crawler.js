@@ -40,3 +40,38 @@
     console.log(csvType);
     //console.log(csvId);
 })();
+
+//https://db.pokemongohub.net/moves-list/category-charge
+(function () {
+    var max = 158; //number of rows to loot
+    var csvMove = "";
+    for (var i = 1; i <= max; i++) {
+        var move = new Object();
+        move.Name = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[1]")[0].innerText;
+        move.Type = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[2]/a/span/img")[0].alt.replace(/ type/g, '');
+        move.PowerGymRaid = parseFloat($x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[3]")[0].innerText);
+        move.EnergyRequired = parseFloat($x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[4]")[0].innerText);
+        move.CoolDown = parseFloat($x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[5]")[0].innerText);
+        csvMove += move.Name + "\t" + move.Type + "\t" + move.PowerGymRaid + "\t" + move.EnergyRequired + "\t" + move.CoolDown + "\n";
+    }
+    console.log(csvMove);
+})();
+
+//https://db.pokemongohub.net/moves-list/pvp/category-charge
+(function () {
+    var max = 158; //number of rows to loot
+    var csvMove = "";
+    for (var i = 1; i <= max; i++) {
+        var move = new Object();
+        move.Name = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[1]")[0].innerText;
+        move.Type = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[2]/a/span/img")[0].alt.replace(/ type/g, '');
+        var PowerPvPTemp = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[3]")[0].innerText;
+        move.PowerPvP = PowerPvPTemp != "" ? parseFloat(PowerPvPTemp) : "NULL";
+        var EnergyRequiredPvpTemp = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[4]")[0].innerText;
+        move.EnergyRequiredPvp = EnergyRequiredPvpTemp != "" ? parseFloat(EnergyRequiredPvpTemp) : "NULL";
+        var TurnsTemp = $x("//*[@id='root']/div/div/div[2]/div/div/div[1]/div[3]/div[" + i + "]/div/div[5]")[0].innerText;
+        move.Turns = TurnsTemp != "" ? parseFloat(TurnsTemp) : "NULL";
+        csvMove += move.Name + "\t" + move.Type + "\t" + move.PowerPvP + "\t" + move.EnergyRequiredPvp + "\t" + move.Turns + "\n";
+    }
+    console.log(csvMove);
+})();
