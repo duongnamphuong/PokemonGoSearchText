@@ -90,3 +90,25 @@
     }
     console.log(csvMove);
 })();
+
+//https://bulbapedia.bulbagarden.net/wiki/List_of_moves_in_Pok%C3%A9mon_GO#Fast_Attacks
+(function () {
+    var max = 68;
+    var csvMove = '';
+    for (var i = 1; i <= max; i++) {
+        var move = new Object();
+        move.Id = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[1]')[0].innerText;
+        move.Name = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[2]')[0].innerText;
+        move.Type = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[3]/a/img')[0].alt.replace(/GO /g, '').replace(/.png/g, '');
+        move.PowerGR = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[4]')[0].innerText;
+        move.EnergyBoostGR = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[5]')[0].innerText;
+        move.Duration = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[6]')[0].innerText;
+        move.DamageStart = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[7]')[0].innerText;
+        move.DamageEnd = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[8]')[0].innerText;
+        move.PowerPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[9]')[0].innerText;
+        move.EnergyBoostPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[10]')[0].innerText;
+        move.DurationPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[11]')[0].innerText;
+        csvMove += move.Id + '\t' + move.Name + '\t' + move.Type + '\t' + move.PowerGR + '\t' + move.EnergyBoostGR + '\t' + move.Duration + '\t' + move.DamageStart + '\t' + move.DamageEnd + '\t' + move.PowerPvP + '\t' + move.EnergyBoostPvP + '\t' + '\t' + move.DurationPvP + '\n';
+    }
+    console.log(csvMove);
+})();
