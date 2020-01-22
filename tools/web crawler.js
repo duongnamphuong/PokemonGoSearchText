@@ -108,7 +108,7 @@
         move.PowerPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[9]')[0].innerText;
         move.EnergyBoostPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[10]')[0].innerText;
         move.DurationPvP = $x('//*[@id="mw-content-text"]/table[1]/tbody/tr/td/table/tbody/tr[' + i + ']/td[11]')[0].innerText;
-        csvMove += move.Id + '\t' + move.Name + '\t' + move.Type + '\t' + move.PowerGR + '\t' + move.EnergyBoostGR + '\t' + move.Duration + '\t' + move.DamageStart + '\t' + move.DamageEnd + '\t' + move.PowerPvP + '\t' + move.EnergyBoostPvP + '\t' + '\t' + move.DurationPvP + '\n';
+        csvMove += move.Id + '\t' + move.Name + '\t' + move.Type + '\t' + move.PowerGR + '\t' + move.EnergyBoostGR + '\t' + move.Duration + '\t' + move.DamageStart + '\t' + move.DamageEnd + '\t' + move.PowerPvP + '\t' + move.EnergyBoostPvP + '\t' + move.DurationPvP + '\n';
     }
     console.log(csvMove);
 })();
