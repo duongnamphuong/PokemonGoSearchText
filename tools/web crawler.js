@@ -114,12 +114,52 @@
 })();
 
 //https://db.pokemongohub.net/moves/225
-(function ()
-{
+(function () {
     var max = 22;
     var csvPokemon = '';
     for (var i = 1; i <= max; i++) {
         csvPokemon += $x('//*[@id="root"]/div/div/div[2]/div[5]/div/table/tbody/tr[' + i + ']/td[1]/a/div/strong')[0].innerText + '\n';
+    }
+    console.log(csvPokemon);
+})();
+
+//https://gamepress.gg/pokemongo/pokemon-move/low-kick
+(function () {
+    var csvPokemon = '';
+    var id = 'sort-table'
+    var countPokemonTables = $x('//table[@id="' + id + '"]').length;
+    if (countPokemonTables >= 1) {
+        //first table (non-legacy)
+        var table1 = $x('//table[@id="' + id + '"]')[0];
+        var max1 = table1.tBodies[0].rows.length;
+        for (var i = 0; i < max1; i++) {
+            var linkTags = [];
+            var children = table1.tBodies[0].rows[i].cells[0].childNodes;
+            for (j = 0; j < children.length; j++) {
+                if (children[j].tagName == "A") {
+                    linkTags.push(children[j]);
+                }
+            }
+            csvPokemon += linkTags[1].innerText + '\n';
+        }
+        //second table (legacy)
+        if (countPokemonTables == 2) {
+            var table2 = $x('//table[@id="sort-table"]')[1];
+            var max2 = table2.tBodies[0].rows.length;
+            for (var i = 0; i < max2; i++) {
+                var linkTags = [];
+                var children = table2.tBodies[0].rows[i].cells[0].childNodes;
+                for (j = 0; j < children.length; j++) {
+                    if (children[j].tagName == "A") {
+                        linkTags.push(children[j]);
+                    }
+                }
+                csvPokemon += linkTags[1].innerText + '\n';
+            }
+        }
+    }
+    else {
+        console.log('not found any tables');
     }
     console.log(csvPokemon);
 })();
