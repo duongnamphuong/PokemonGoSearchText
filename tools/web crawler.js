@@ -112,3 +112,14 @@
     }
     console.log(csvMove);
 })();
+
+//https://db.pokemongohub.net/moves/225
+(function ()
+{
+    var max = 22;
+    var csvPokemon = '';
+    for (var i = 1; i <= max; i++) {
+        csvPokemon += $x('//*[@id="root"]/div/div/div[2]/div[5]/div/table/tbody/tr[' + i + ']/td[1]/a/div/strong')[0].innerText + '\n';
+    }
+    console.log(csvPokemon);
+})();
