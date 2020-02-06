@@ -1,0 +1,1555 @@
+200	Fury Cutter	https://gamepress.gg/pokemongo/pokemon-move/fury-cutter
+Farfetch'd	1
+Karrablast	1
+Gligar	1
+Vespiquen	1
+Pawniard	1
+Dewott	1
+Kricketune	1
+Parasect	1
+Gliscor	1
+Crustle	1
+Ninjask	1
+Galvantula	1
+Samurott	1
+Scyther	1
+Armaldo	1
+Zangoose	1
+Sceptile	1
+Scizor	1
+Pinsir	1
+Genesect	1
+Kabutops	0
+Nidoking	0
+201	Bug Bite	https://gamepress.gg/pokemongo/pokemon-move/bug-bite
+Metapod	1
+Kricketot	1
+Kakuna	1
+Caterpie	1
+Combee	1
+Silcoon	1
+Cascoon	1
+Weedle	1
+Ledyba	1
+Wurmple	1
+Nincada	1
+Venipede	1
+Surskit	1
+Sewaddle	1
+Venonat	1
+Whirlipede	1
+Spinarak	1
+Ledian	1
+Pineco	1
+Swadloon	1
+Paras	1
+Wormadam (Trash Cloak)	1
+Wormadam (Plant Cloak)	1
+Wormadam (Sandy Cloak)	1
+Vespiquen	1
+Shedinja	1
+Larvesta	1
+Forretress	1
+Mothim	1
+Scolipede	1
+Leavanny	1
+Durant	1
+Escavalier	1
+Yanmega	1
+Pinsir	1
+Heatran	1
+Volcarona	1
+Venomoth	0
+Beedrill	0
+Butterfree	0
+Parasect	0
+202	Bite	https://gamepress.gg/pokemongo/pokemon-move/bite
+Zubat	1
+Nidoran♀	1
+Meowth	1
+Patrat	1
+Alolan Meowth	1
+Larvitar	1
+Nidorina	1
+Stunky	1
+Hippopotas	1
+Wartortle	1
+Dunsparce	1
+Sandile	1
+Tirtouga	1
+Bagon	1
+Loudred	1
+Alolan Grimer	1
+Alolan Raticate	1
+Growlithe	1
+Snubbull	1
+Krokorok	1
+Pupitar	1
+Mawile	1
+Grotle	1
+Zweilous	1
+Luxio	1
+Raticate	1
+Golbat	1
+Watchog	1
+Arbok	1
+Blastoise	1
+Carvanha	1
+Mightyena	1
+Exploud	1
+Drapion	1
+Nidoqueen	1
+Skuntank	1
+Carnivine	1
+Alolan Muk	1
+Crobat	1
+Huntail	1
+Hippowdon	1
+Torterra	1
+Feraligatr	1
+Simisage	1
+Simisear	1
+Simipour	1
+Granbull	1
+Druddigon	1
+Aerodactyl	1
+Gyarados	1
+Tornadus (Therian Forme)	1
+Sharpedo	1
+Tyranitar	1
+Hydreigon	1
+Tornadus (Incarnate Forme)	1
+Salamence	1
+Arcanine	0
+Shedinja	0
+203	Sucker Punch	https://gamepress.gg/pokemongo/pokemon-move/sucker-punch
+Purrloin	1
+Joltik	1
+Spinda	1
+Furret	1
+Cacnea	1
+Kecleon	1
+Dugtrio	1
+Spiritomb	1
+Mismagius	1
+Cacturne	1
+Gengar	1
+Gastly	0
+204	Dragon Breath	https://gamepress.gg/pokemongo/pokemon-move/dragon-breath
+Deino	1
+Dratini	1
+Vibrava	1
+Altaria	1
+Zweilous	1
+Dragonair	1
+Shelgon	1
+Seadra	1
+Giratina (Altered Forme)	1
+Kingdra	1
+Latias	1
+Gyarados	1
+Kyurem	1
+Hydreigon	1
+Dragonite	1
+Latios	1
+Zekrom	1
+Reshiram	1
+Dialga	1
+Palkia	1
+White Kyurem	1
+205	Thunder Shock	https://gamepress.gg/pokemongo/pokemon-move/thunder-shock
+Pichu	1
+Pikachu	1
+Mareep	1
+Meltan	1
+Elekid	1
+Stunfisk	1
+Klang	1
+Emolga	1
+Magnemite	1
+Rotom	1
+Raichu	1
+Electabuzz	1
+Klinklang	1
+Alolan Raichu	1
+Magneton	1
+Melmetal	1
+Jolteon	1
+Raikou	1
+Electivire	1
+Thundurus (Incarnate Forme)	1
+Thundurus (Therian Forme)	1
+Zapdos	0
+206	Spark	https://gamepress.gg/pokemongo/pokemon-move/spark
+Nosepass	1
+Pachirisu	1
+Tynamo	1
+Chinchou	1
+Voltorb	1
+Shinx	1
+Blitzle	1
+Electrike	1
+Probopass	1
+Lanturn	1
+Minun	1
+Eelektrik	1
+Luxio	1
+Magnemite	1
+Plusle	1
+Electrode	1
+Raichu	1
+Alolan Raichu	1
+Zebstrika	1
+Eelektross	1
+Magneton	1
+Luxray	1
+Magnezone	1
+207	Low Kick	https://gamepress.gg/pokemongo/pokemon-move/low-kick
+Timburr	1
+Elekid	1
+Lopunny	1
+Mienfoo	1
+Watchog	1
+Throh	1
+Machoke	1
+Gurdurr	1
+Kangaskhan	1
+Electabuzz	1
+Rapidash	1
+Primeape	1
+Zebstrika	1
+Hitmonlee	1
+Sawk	1
+Emboar	1
+Gallade	1
+Electivire	1
+Mienshao	1
+Keldeo	1
+Meloetta (Pirouette Forme)	1
+Machop	0
+208	Karate Chop	https://gamepress.gg/pokemongo/pokemon-move/karate-chop
+Machop	1
+Mankey	1
+Magby	1
+Machoke	1
+Magmar	1
+Magmortar	1
+Machamp	0
+Primeape	0
+209	Ember	https://gamepress.gg/pokemongo/pokemon-move/ember
+Vulpix	1
+Litwick	1
+Chimchar	1
+Tepig	1
+Cyndaquil	1
+Charmander	1
+Slugma	1
+Numel	1
+Torchic	1
+Bagon	1
+Growlithe	1
+Castform (Sunny)	1
+Magcargo	1
+Torkoal	1
+Magby	1
+Houndour	1
+Larvesta	1
+Monferno	1
+Quilava	1
+Charmeleon	1
+Combusken	1
+Lampent	1
+Ponyta	1
+Shelgon	1
+Pignite	1
+Camerupt	1
+Magmar	1
+Typhlosion	1
+Emboar	1
+Flareon	1
+Moltres	0
+Charizard	0
+Rapidash	0
+Ninetales	0
+210	Wing Attack	https://gamepress.gg/pokemongo/pokemon-move/wing-attack
+Ducklett	1
+Pidgeotto	1
+Staravia	1
+Gligar	1
+Noctowl	1
+Mantine	1
+Rufflet	1
+Yanma	1
+Golbat	1
+Pelipper	1
+Gliscor	1
+Swellow	1
+Archen	1
+Yanmega	1
+Staraptor	1
+Moltres	1
+Archeops	1
+Charizard	0
+Pidgeot	0
+211	Peck	https://gamepress.gg/pokemongo/pokemon-move/peck
+Hoothoot	1
+Togepi	1
+Swablu	1
+Nidoran♂	1
+Taillow	1
+Spearow	1
+Goldeen	1
+Natu	1
+Karrablast	1
+Altaria	1
+Rufflet	1
+Doduo	1
+Combusken	1
+Seaking	1
+Murkrow	1
+Fearow	1
+Chatot	1
+Honchkrow	1
+212	Lick	https://gamepress.gg/pokemongo/pokemon-move/lick
+Seel	1
+Lickitung	1
+Munchlax	1
+Teddiursa	1
+Herdier	1
+Lickilicky	1
+Kecleon	1
+Gastly	1
+Snorlax	1
+Heatmor	1
+Stoutland	1
+Gengar	0
+Haunter	0
+Muk	0
+213	Shadow Claw	https://gamepress.gg/pokemongo/pokemon-move/shadow-claw
+Sableye	1
+Linoone	1
+Shedinja	1
+Purugly	1
+Giratina (Altered Forme)	1
+Mew	1
+Banette	1
+Zangoose	1
+Typhlosion	1
+Haunter	1
+Giratina (Origin Forme)	1
+Ursaring	1
+Arceus	1
+Zoroark	1
+Gengar	1
+Black Kyurem	1
+214	Vine Whip	https://gamepress.gg/pokemongo/pokemon-move/vine-whip
+Snivy	1
+Chikorita	1
+Pansage	1
+Bulbasaur	1
+Servine	1
+Bellsprout	1
+Ivysaur	1
+Serperior	1
+Meganium	1
+Tangela	1
+Carnivine	1
+Venusaur	1
+Simisage	1
+Tangrowth	1
+215	Razor Leaf	https://gamepress.gg/pokemongo/pokemon-move/razor-leaf
+Sunkern	1
+Lotad	1
+Cottonee	1
+Budew	1
+Lombre	1
+Turtwig	1
+Bayleef	1
+Oddish	1
+Nuzleaf	1
+Tropius	1
+Ivysaur	1
+Gloom	1
+Grotle	1
+Whimsicott	1
+Meganium	1
+Bellossom	1
+Cherrim	1
+Ludicolo	1
+Abomasnow	1
+Sunflora	1
+Roselia	1
+Venusaur	1
+Shiftry	1
+Vileplume	1
+Torterra	1
+Leavanny	1
+Victreebel	1
+Leafeon	1
+Roserade	1
+Weepinbell	0
+216	Mud Shot	https://gamepress.gg/pokemongo/pokemon-move/mud-shot
+Wooper	1
+Barboach	1
+Tympole	1
+Poliwag	1
+Goldeen	1
+Gible	1
+Sandshrew	1
+Remoraid	1
+Palpitoad	1
+Poliwhirl	1
+Vibrava	1
+Stunfisk	1
+Kabuto	1
+Whiscash	1
+Quagsire	1
+Omanyte	1
+Marshtomp	1
+Trapinch	1
+Gabite	1
+Politoed	1
+Krabby	1
+Sandslash	1
+Seismitoad	1
+Bouffalant	1
+Octillery	1
+Flygon	1
+Omastar	1
+Swampert	1
+Kabutops	1
+Landorus (Incarnate Forme)	1
+Garchomp	1
+Groudon	1
+Landorus (Therian Forme)	1
+Kingler	0
+Golem	0
+Dugtrio	0
+Graveler	0
+Diglett	0
+217	Ice Shard	https://gamepress.gg/pokemongo/pokemon-move/ice-shard
+Seel	1
+Snover	1
+Shellder	1
+Glalie	1
+Piloswine	1
+Cloyster	1
+Sneasel	1
+Cryogonal	1
+Articuno	1
+Glaceon	1
+Weavile	1
+Lapras	0
+Dewgong	0
+Delibird	0
+218	Frost Breath	https://gamepress.gg/pokemongo/pokemon-move/frost-breath
+Dewgong	1
+Vanillish	1
+Glalie	1
+Lapras	1
+Regice	1
+Walrein	1
+Cloyster	1
+Cryogonal	1
+Articuno	1
+Mew	1
+Vanilluxe	1
+Jynx	1
+Glaceon	1
+Smoochum	0
+219	Quick Attack	https://gamepress.gg/pokemongo/pokemon-move/quick-attack
+Burmy	1
+Seedot	1
+Sentret	1
+Zubat	1
+Pidgey	1
+Vulpix	1
+Pidove	1
+Starly	1
+Alolan Rattata	1
+Rattata	1
+Eevee	1
+Taillow	1
+Wingull	1
+Glameow	1
+Spearow	1
+Pikachu	1
+Blitzle	1
+Electrike	1
+Riolu	1
+Buneary	1
+Buizel	1
+Natu	1
+Alolan Raticate	1
+Staravia	1
+Minun	1
+Furret	1
+Yanma	1
+Emolga	1
+Doduo	1
+Raticate	1
+Plusle	1
+Grovyle	1
+Virizion	1
+Victini	1
+Archen	1
+Leafeon	1
+Staraptor	1
+Meloetta (Aria Forme)	1
+Meloetta (Pirouette Forme)	1
+Starmie	0
+Porygon	0
+Staryu	0
+Delibird	0
+Pichu	0
+220	Scratch	https://gamepress.gg/pokemongo/pokemon-move/scratch
+Sentret	1
+Nincada	1
+Meowth	1
+Purrloin	1
+Alolan Meowth	1
+Pansage	1
+Pansear	1
+Panpour	1
+Diglett	1
+Glameow	1
+Chimchar	1
+Charmander	1
+Totodile	1
+Paras	1
+Stunky	1
+Sandshrew	1
+Torchic	1
+Aipom	1
+Teddiursa	1
+Mankey	1
+Kabuto	1
+Croconaw	1
+Persian	1
+Zorua	1
+Drilbur	1
+Axew	1
+Pawniard	1
+Alolan Persian	1
+Vigoroth	1
+Purugly	1
+Anorith	1
+Ambipom	1
+Charmeleon	0
+221	Tackle	https://gamepress.gg/pokemongo/pokemon-move/tackle
+Feebas	1
+Marill	1
+Smeargle	1
+Bronzor	1
+Metapod	1
+Burmy	1
+Caterpie	1
+Zigzagoon	1
+Tyrogue	1
+Hoppip	1
+Ledyba	1
+Shroomish	1
+Wurmple	1
+Shieldon	1
+Bidoof	1
+Ferroseed	1
+Skitty	1
+Onix	1
+Pidgey	1
+Snivy	1
+Swinub	1
+Skiploom	1
+Chikorita	1
+Squirtle	1
+Poochyena	1
+Patrat	1
+Makuhita	1
+Starly	1
+Rattata	1
+Alolan Rattata	1
+Eevee	1
+Tynamo	1
+Mantyke	1
+Lillipup	1
+Phanpy	1
+Cherubi	1
+Pineco	1
+Voltorb	1
+Mareep	1
+Tepig	1
+Deerling	1
+Shellder	1
+Deino	1
+Cyndaquil	1
+Oshawott	1
+Shinx	1
+Bulbasaur	1
+Corsola	1
+Numel	1
+Koffing	1
+Turtwig	1
+Aron	1
+Roggenrola	1
+Bayleef	1
+Hippopotas	1
+Mudkip	1
+Geodude	1
+Munchlax	1
+Snubbull	1
+Staryu	1
+Castform	1
+Castform (Snowy)	1
+Castform (Rainy)	1
+Castform (Sunny)	1
+Linoone	1
+Volbeat	1
+Illumise	1
+Flaaffy	1
+Darumaka	1
+Miltank	1
+Quilava	1
+Ponyta	1
+Pignite	1
+Galarian Weezing	1
+Weezing	1
+Girafarig	1
+Rotom	1
+Basculin	1
+Stantler	1
+Tauros	1
+Donphan	1
+Darmanitan	1
+Starmie	0
+Electrode	0
+Porygon	0
+222	Pound	https://gamepress.gg/pokemongo/pokemon-move/pound
+Happiny	1
+Chansey	1
+Igglybuff	1
+Cleffa	1
+Jigglypuff	1
+Gulpin	1
+Drowzee	1
+Whismur	1
+Finneon	1
+Trubbish	1
+Minccino	1
+Gothita	1
+Clefairy	1
+Piplup	1
+Audino	1
+Treecko	1
+Mime Jr.	1
+Blissey	1
+Buneary	1
+Timburr	1
+Gothorita	1
+Smoochum	1
+Wigglytuff	1
+Lopunny	1
+Mienfoo	1
+Cinccino	1
+Mew	1
+Jynx	0
+Clefable	0
+223	Cut	https://gamepress.gg/pokemongo/pokemon-move/cut
+Sunkern	1
+Dwebble	1
+Mew	1
+Farfetch'd	0
+224	Poison Jab	https://gamepress.gg/pokemongo/pokemon-move/poison-jab
+Croagunk	1
+Grimer	1
+Alolan Grimer	1
+Nidorino	1
+Tentacruel	1
+Beedrill	1
+Nidoqueen	1
+Gurdurr	1
+Skuntank	1
+Roselia	1
+Muk	1
+Alolan Muk	1
+Seviper	1
+Maractus	1
+Scolipede	1
+Nidoking	1
+Mew	1
+Toxicroak	1
+Cacturne	1
+Sawk	1
+Roserade	1
+Conkeldurr	1
+Mienshao	1
+Keldeo	1
+Deoxys (Attack Forme)	1
+Seaking	0
+225	Acid	https://gamepress.gg/pokemongo/pokemon-move/acid
+Shelmet	1
+Lileep	1
+Ekans	1
+Oddish	1
+Bellsprout	1
+Cradily	1
+Gloom	1
+Eelektrik	1
+Tentacruel	1
+Arbok	1
+Bellossom	1
+Weepinbell	1
+Vileplume	1
+Victreebel	1
+Eelektross	1
+Accelgor	1
+Muk	0
+Weezing	0
+Grimer	0
+Koffing	0
+226	Psycho Cut	https://gamepress.gg/pokemongo/pokemon-move/psycho-cut
+Spinda	1
+Medicham	1
+Cresselia	1
+Kadabra	1
+Absol	1
+Alakazam	1
+Mewtwo	1
+227	Rock Throw	https://gamepress.gg/pokemongo/pokemon-move/rock-throw
+Shuckle	1
+Nosepass	1
+Onix	1
+Slugma	1
+Bonsly	1
+Geodude	1
+Alolan Geodude	1
+Probopass	1
+Magcargo	1
+Graveler	1
+Alolan Graveler	1
+Sudowoodo	1
+Lunatone	1
+Solrock	1
+Regirock	1
+Carracosta	1
+Golem	1
+Alolan Golem	1
+Aerodactyl	1
+Landorus (Incarnate Forme)	1
+Landorus (Therian Forme)	1
+Omastar	0
+228	Metal Claw	https://gamepress.gg/pokemongo/pokemon-move/metal-claw
+Ferroseed	1
+Alolan Diglett	1
+Aron	1
+Alolan Sandshrew	1
+Metang	1
+Registeel	1
+Prinplup	1
+Ferrothorn	1
+Lairon	1
+Alolan Sandslash	1
+Sandslash	1
+Cobalion	1
+Ninjask	1
+Alolan Dugtrio	1
+Empoleon	1
+Durant	1
+Bisharp	1
+Ursaring	1
+Kingler	1
+Genesect	1
+Excadrill	1
+Dialga	1
+229	Bullet Punch	https://gamepress.gg/pokemongo/pokemon-move/bullet-punch
+Hitmonchan	1
+Hariyama	1
+Machamp	1
+Scizor	1
+Lucario	1
+Metagross	1
+230	Water Gun	https://gamepress.gg/pokemongo/pokemon-move/water-gun
+Lotad	1
+Wooper	1
+Luvdisc	1
+Ducklett	1
+Barboach	1
+Spheal	1
+Finneon	1
+Panpour	1
+Wingull	1
+Slowpoke	1
+Oshawott	1
+Totodile	1
+Psyduck	1
+Mudkip	1
+Wartortle	1
+Remoraid	1
+Horsea	1
+Buizel	1
+Clamperl	1
+Tirtouga	1
+Wailmer	1
+Staryu	1
+Sealeo	1
+Castform (Rainy)	1
+Lumineon	1
+Lanturn	1
+Croconaw	1
+Whiscash	1
+Quagsire	1
+Omanyte	1
+Marshtomp	1
+Dewott	1
+Bibarel	1
+Relicanth	1
+Lapras	1
+Blastoise	1
+Pelipper	1
+Wailord	1
+Slowking	1
+Slowbro	1
+Swanna	1
+Qwilfish	1
+Seadra	1
+Basculin	1
+Golduck	1
+Carracosta	1
+Huntail	1
+Octillery	1
+Vaporeon	1
+Simipour	1
+Omastar	1
+Swampert	1
+Starmie	1
+Gorebyss	1
+Floatzel	1
+Feraligatr	0
+Kingdra	0
+Seel	0
+231	Splash	https://gamepress.gg/pokemongo/pokemon-move/splash
+Magikarp	1
+Feebas	1
+Azurill	1
+Wynaut	1
+Wobbuffet	1
+Luvdisc	1
+Spoink	1
+Wailmer	1
+232	Water Gun (Blastoise)	https://gamepress.gg/pokemongo/pokemon-move/water-gun-(blastoise)
+233	Mud-Slap	https://gamepress.gg/pokemongo/pokemon-move/mud-slap
+Cubone	1
+Shellos	1
+Alolan Diglett	1
+Diglett	1
+Golett	1
+Sandile	1
+Grimer	1
+Rhyhorn	1
+Claydol	1
+Marowak	1
+Drilbur	1
+Krokorok	1
+Graveler	1
+Dugtrio	1
+Gastrodon	1
+Boldore	1
+Kangaskhan	1
+Alolan Dugtrio	1
+Golem	1
+Donphan	1
+Rhydon	1
+Golurk	1
+Gigalith	1
+Krookodile	1
+Rhyperior	1
+Mamoswine	1
+Excadrill	1
+234	Zen Headbutt	https://gamepress.gg/pokemongo/pokemon-move/zen-headbutt
+Happiny	1
+Chansey	1
+Cleffa	1
+Yamask	1
+Alolan Vulpix	1
+Clefairy	1
+Lickitung	1
+Munna	1
+Chingling	1
+Audino	1
+Psyduck	1
+Spoink	1
+Blissey	1
+Delcatty	1
+Metang	1
+Deoxys (Defense Forme)	1
+Hypno	1
+Miltank	1
+Lickilicky	1
+Relicanth	1
+Cofagrigus	1
+Solosis	1
+Throh	1
+Wailord	1
+Clefable	1
+Musharna	1
+Snorlax	1
+Stantler	1
+Mr. Mime	1
+Cobalion	1
+Virizion	1
+Abra	1
+Bouffalant	1
+Tauros	1
+Sigilyph	1
+Duosion	1
+Shaymin (Land Forme)	1
+Reuniclus	1
+Cranidos	1
+Latias	1
+Deoxys (Speed Forme)	1
+Metagross	1
+Terrakion	1
+Espeon	1
+Shaymin (Sky Forme)	1
+Latios	1
+Regigigas	1
+Rampardos	1
+Deoxys (Normal Forme)	1
+Deoxys (Attack Forme)	1
+Exeggutor	0
+Porygon	0
+Togetic	0
+Togepi	0
+235	Confusion	https://gamepress.gg/pokemongo/pokemon-move/confusion
+Bronzor	1
+Baltoy	1
+Meditite	1
+Ralts	1
+Drowzee	1
+Dustox	1
+Gothita	1
+Venonat	1
+Exeggcute	1
+Woobat	1
+Slowpoke	1
+Kirlia	1
+Mime Jr.	1
+Wormadam (Trash Cloak)	1
+Gothorita	1
+Claydol	1
+Wormadam (Plant Cloak)	1
+Wormadam (Sandy Cloak)	1
+Hypno	1
+Elgyem	1
+Cresselia	1
+Uxie	1
+Bronzong	1
+Swoobat	1
+Butterfree	1
+Gothitelle	1
+Slowbro	1
+Slowking	1
+Lunatone	1
+Solrock	1
+Venomoth	1
+Girafarig	1
+Armored Mewtwo	1
+Golduck	1
+Mr. Mime	1
+Victini	1
+Celebi	1
+Jirachi	1
+Gorebyss	1
+Mesprit	1
+Beheeyem	1
+Jynx	1
+Kadabra	1
+Exeggutor	1
+Gardevoir	1
+Gallade	1
+Meloetta (Aria Forme)	1
+Espeon	1
+Azelf	1
+Alakazam	1
+Mewtwo	1
+236	Poison Sting	https://gamepress.gg/pokemongo/pokemon-move/poison-sting
+Kakuna	1
+Silcoon	1
+Cascoon	1
+Weedle	1
+Venipede	1
+Nidoran♀	1
+Skorupi	1
+Tentacool	1
+Whirlipede	1
+Spinarak	1
+Nidoran♂	1
+Ekans	1
+Croagunk	1
+Nidorina	1
+Nidorino	1
+Vespiquen	1
+Cacnea	1
+Ariados	1
+Drapion	1
+Qwilfish	1
+237	Bubble	https://gamepress.gg/pokemongo/pokemon-move/bubble
+Azurill	1
+Marill	1
+Surskit	1
+Squirtle	1
+Tentacool	1
+Tympole	1
+Poliwag	1
+Mantyke	1
+Chinchou	1
+Azumarill	1
+Piplup	1
+Lombre	1
+Frillish	1
+Corsola	1
+Palpitoad	1
+Horsea	1
+Poliwhirl	1
+Corphish	1
+Mantine	1
+Prinplup	1
+Jellicent	1
+Phione	1
+Ludicolo	1
+Politoed	1
+Krabby	1
+Poliwrath	1
+Seismitoad	1
+Manaphy	1
+Kingler	1
+238	Feint Attack	https://gamepress.gg/pokemongo/pokemon-move/feint-attack
+Hoothoot	1
+Igglybuff	1
+Jigglypuff	1
+Skitty	1
+Foongus	1
+Vullaby	1
+Dusclops	1
+Umbreon	1
+Delcatty	1
+Scraggy	1
+Nuzleaf	1
+Shuppet	1
+Sableye	1
+Persian	1
+Houndour	1
+Zorua	1
+Amoonguss	1
+Wigglytuff	1
+Alolan Persian	1
+Bronzong	1
+Ninetales	1
+Spiritomb	1
+Alolan Ninetales	1
+Murkrow	1
+Sneasel	1
+Xatu	1
+Sawsbuck	1
+Shiftry	1
+Dodrio	1
+Weavile	1
+Darkrai	1
+239	Steel Wing	https://gamepress.gg/pokemongo/pokemon-move/steel-wing
+Pidgeotto	1
+Tranquill	1
+Skarmory	1
+Pidgeot	1
+Fearow	1
+Chatot	1
+Swellow	1
+Mew	1
+Dodrio	1
+Aerodactyl	1
+Unfezant	1
+Braviary	1
+Ho-Oh	1
+Kyurem	1
+Dragonite	1
+Archeops	1
+White Kyurem	1
+Scyther	0
+Togetic	0
+240	Fire Fang	https://gamepress.gg/pokemongo/pokemon-move/fire-fang
+Darumaka	1
+Mawile	1
+Charmeleon	1
+Mightyena	1
+Hippowdon	1
+Houndoom	1
+Arcanine	1
+Entei	1
+Darmanitan	1
+Reshiram	1
+Salamence	1
+241	Rock Smash	https://gamepress.gg/pokemongo/pokemon-move/rock-smash
+Zigzagoon	1
+Tyrogue	1
+Meditite	1
+Gulpin	1
+Cubone	1
+Spheal	1
+Makuhita	1
+Phanpy	1
+Azumarill	1
+Larvitar	1
+Scraggy	1
+Loudred	1
+Machop	1
+Rhyhorn	1
+Swalot	1
+Corphish	1
+Registeel	1
+Marowak	1
+Alolan Marowak	1
+Pupitar	1
+Monferno	1
+Hitmontop	1
+Regice	1
+Regirock	1
+Poliwrath	1
+Camerupt	1
+Mew	1
+Kabutops	1
+Infernape	1
+Rhydon	1
+Hitmonlee	1
+Pinsir	1
+Hitmonchan	0
+242	Transform	https://gamepress.gg/pokemongo/pokemon-move/transform
+Ditto	1
+243	Counter	https://gamepress.gg/pokemongo/pokemon-move/counter
+Wynaut	1
+Wobbuffet	1
+Medicham	1
+Bonsly	1
+Riolu	1
+Deoxys (Defense Forme)	1
+Vigoroth	1
+Scrafty	1
+Sudowoodo	1
+Hitmontop	1
+Hitmonchan	1
+Primeape	1
+Hariyama	1
+Toxicroak	1
+Donphan	1
+Escavalier	1
+Machamp	1
+Heracross	1
+Lucario	1
+Ursaring	1
+Blaziken	1
+Breloom	1
+Conkeldurr	1
+Haxorus	1
+244	Powder Snow	https://gamepress.gg/pokemongo/pokemon-move/powder-snow
+Swinub	1
+Snorunt	1
+Alolan Vulpix	1
+Snover	1
+Vanillite	1
+Alolan Sandshrew	1
+Cubchoo	1
+Sealeo	1
+Castform (Snowy)	1
+Smoochum	1
+Alolan Ninetales	1
+Froslass	1
+Alolan Sandslash	1
+Abomasnow	1
+Piloswine	1
+Beartic	1
+Mamoswine	1
+249	Charge Beam	https://gamepress.gg/pokemongo/pokemon-move/charge-beam
+Ralts	1
+Klink	1
+Joltik	1
+Munna	1
+Kirlia	1
+Flaaffy	1
+Lanturn	1
+Klang	1
+Porygon	1
+Grumpig	1
+Clefable	1
+Musharna	1
+Abra	1
+Porygon2	1
+Klinklang	1
+Mew	1
+Jirachi	1
+Celebi	1
+Ampharos	1
+Manectric	1
+Magneton	1
+Deoxys (Speed Forme)	1
+Gardevoir	1
+Magnezone	1
+Zapdos	1
+Porygon-Z	1
+Zekrom	1
+Deoxys (Normal Forme)	1
+Galvantula	0
+250	Volt Switch	https://gamepress.gg/pokemongo/pokemon-move/volt-switch
+Pachirisu	1
+Klink	1
+Alolan Geodude	1
+Alolan Graveler	1
+Electrode	1
+Raichu	1
+Galvantula	1
+Alolan Raichu	1
+Mew	1
+Ampharos	1
+Alolan Golem	1
+Jolteon	1
+Raikou	1
+253	Dragon Tail	https://gamepress.gg/pokemongo/pokemon-move/dragon-tail
+Steelix	1
+Arbok	1
+Milotic	1
+Lugia	1
+Aggron	1
+Flygon	1
+Mew	1
+Fraxure	1
+Druddigon	1
+Giratina (Origin Forme)	1
+Alolan Exeggutor	1
+Garchomp	1
+Dragonite	1
+Groudon	1
+Salamence	1
+Palkia	1
+Haxorus	1
+Rayquaza	1
+Black Kyurem	1
+Gyarados	0
+255	Air Slash	https://gamepress.gg/pokemongo/pokemon-move/air-slash
+Pidove	1
+Vullaby	1
+Woobat	1
+Farfetch'd	1
+Mandibuzz	1
+Tropius	1
+Tranquill	1
+Skarmory	1
+Vespiquen	1
+Swoobat	1
+Pidgeot	1
+Swanna	1
+Mothim	1
+Xatu	1
+Masquerain	1
+Crobat	1
+Sigilyph	1
+Scyther	1
+Charizard	1
+Togekiss	1
+Unfezant	1
+Braviary	1
+Tornadus (Therian Forme)	1
+Tornadus (Incarnate Forme)	1
+Rayquaza	1
+260	Infestation	https://gamepress.gg/pokemongo/pokemon-move/infestation
+Shelmet	1
+Skorupi	1
+Lileep	1
+Jumpluff	1
+Koffing	1
+Swalot	1
+Cradily	1
+Ariados	1
+Beedrill	1
+Weezing	1
+Venomoth	1
+Drapion	1
+Garbodor	1
+Tangela	1
+Beautifly	1
+Muk	1
+Masquerain	1
+Tangrowth	1
+Mew	1
+Accelgor	1
+261	Struggle Bug	https://gamepress.gg/pokemongo/pokemon-move/struggle-bug
+Shuckle	1
+Kricketot	1
+Sewaddle	1
+Dustox	1
+Ledian	1
+Swadloon	1
+Volbeat	1
+Illumise	1
+Kricketune	1
+Forretress	1
+Trapinch	1
+Parasect	1
+Butterfree	1
+Anorith	1
+Beautifly	1
+Mew	1
+Armaldo	1
+Heracross	1
+Shedinja	0
+263	Astonish	https://gamepress.gg/pokemongo/pokemon-move/astonish
+Duskull	1
+Swablu	1
+Whismur	1
+Yamask	1
+Foongus	1
+Litwick	1
+Drifloon	1
+Vanillite	1
+Golett	1
+Dunsparce	1
+Aipom	1
+Shuppet	1
+Elgyem	1
+Vanillish	1
+Amoonguss	1
+Mawile	1
+Cofagrigus	1
+Misdreavus	1
+Lampent	1
+Chimecho	1
+Exploud	1
+Drifblim	1
+Dusknoir	1
+Gastly	1
+Ambipom	1
+Vanilluxe	1
+Beheeyem	1
+Golurk	1
+Haunter	1
+Thundurus (Incarnate Forme)	1
+Thundurus (Therian Forme)	1
+264	Hex	https://gamepress.gg/pokemongo/pokemon-move/hex
+Duskull	1
+Snorunt	1
+Frillish	1
+Drifloon	1
+Dusclops	1
+Castform	1
+Alolan Marowak	1
+Jellicent	1
+Misdreavus	1
+Froslass	1
+Dusknoir	1
+Drifblim	1
+Mismagius	1
+Banette	1
+Gengar	1
+Chandelure	1
+266	Iron Tail	https://gamepress.gg/pokemongo/pokemon-move/iron-tail
+Shieldon	1
+Bastiodon	1
+Dratini	1
+Servine	1
+Dewgong	1
+Steelix	1
+Axew	1
+Lairon	1
+Serperior	1
+Dragonair	1
+Armored Mewtwo	1
+Seviper	1
+Aggron	1
+Nidoking	1
+Fraxure	1
+Arceus	1
+Tyranitar	1
+269	Fire Spin	https://gamepress.gg/pokemongo/pokemon-move/fire-spin
+Pansear	1
+Alolan Marowak	1
+Torkoal	1
+Ninetales	1
+Heatmor	1
+Simisear	1
+Rapidash	1
+Infernape	1
+Charizard	1
+Entei	1
+Blaziken	1
+Flareon	1
+Magmortar	1
+Heatran	1
+Moltres	1
+Volcarona	1
+Chandelure	1
+271	Bullet Seed	https://gamepress.gg/pokemongo/pokemon-move/bullet-seed
+Hoppip	1
+Seedot	1
+Shroomish	1
+Skiploom	1
+Exeggcute	1
+Cherubi	1
+Jumpluff	1
+Treecko	1
+Mantine	1
+Ferrothorn	1
+Cherrim	1
+Weepinbell	1
+Grovyle	1
+Sunflora	1
+Maractus	1
+Sceptile	1
+Alolan Exeggutor	1
+Exeggutor	1
+Breloom	1
+274	Extrasensory	https://gamepress.gg/pokemongo/pokemon-move/extrasensory
+Baltoy	1
+Togetic	1
+Claydol	1
+Noctowl	1
+Uxie	1
+Grumpig	1
+Chimecho	1
+Suicune	1
+Lugia	1
+Mesprit	1
+Exeggutor	1
+Ho-Oh	1
+Azelf	1
+278	Snarl	https://gamepress.gg/pokemongo/pokemon-move/snarl
+Poochyena	1
+Umbreon	1
+Mandibuzz	1
+Scrafty	1
+Carvanha	1
+Suicune	1
+Liepard	1
+Alolan Muk	1
+Shiftry	1
+Mew	1
+Granbull	1
+Manectric	1
+Crawdaunt	1
+Houndoom	1
+Arcanine	1
+Krookodile	1
+Luxray	1
+Bisharp	1
+Honchkrow	1
+Weavile	1
+Absol	1
+Zoroark	1
+Darkrai	1
+281	Hidden Power	https://gamepress.gg/pokemongo/pokemon-move/hidden-power
+Togepi	1
+Budew	1
+Shellos	1
+Petilil	1
+Unown	1
+Alomomola	1
+Togetic	1
+Porygon	1
+Gastrodon	1
+Solosis	1
+Porygon2	1
+Duosion	1
+Starmie	1
+Shaymin (Land Forme)	1
+Lilligant	1
+Reuniclus	1
+Togekiss	1
+Luxray	1
+Ho-Oh	1
+Shaymin (Sky Forme)	1
+Porygon-Z	1
+Regigigas	1
+Suicune	0
+282	Take Down	https://gamepress.gg/pokemongo/pokemon-move/take-down
+Bidoof	1
+Beldum	1
+Trubbish	1
+Lillipup	1
+Deerling	1
+Gible	1
+Herdier	1
+Bibarel	1
+Garbodor	1
+Sawsbuck	1
+Stoutland	1
+Cranidos	1
+283	Waterfall	https://gamepress.gg/pokemongo/pokemon-move/waterfall
+Alomomola	1
+Lumineon	1
+Seaking	1
+Walrein	1
+Milotic	1
+Kingdra	1
+Feraligatr	1
+Mew	1
+Empoleon	1
+Samurott	1
+Kabutops	1
+Floatzel	1
+Crawdaunt	1
+Gyarados	1
+Sharpedo	1
+Kyogre	1
+287	Yawn	https://gamepress.gg/pokemongo/pokemon-move/yawn
+Slakoth	1
+Slaking	1
+Snorlax	0
+291	Present	https://gamepress.gg/pokemongo/pokemon-move/present
+Delibird	1
+Pikachu	0
+297	Smack Down	https://gamepress.gg/pokemongo/pokemon-move/smack-down
+Bastiodon	1
+Dwebble	1
+Roggenrola	1
+Boldore	1
+Crustle	1
+Aggron	1
+Gigalith	1
+Rhyperior	1
+Terrakion	1
+Rampardos	1
+Tyranitar	0
+320	Charm	https://gamepress.gg/pokemongo/pokemon-move/charm
+Wobbuffet	1
+Cottonee	1
+Minccino	1
+Petilil	1
+Cubchoo	1
+Delcatty	1
+Wigglytuff	1
+Whimsicott	1
+Alolan Ninetales	1
+Gothitelle	1
+Clefable	1
+Liepard	1
+Raichu	1
+Cinccino	1
+Granbull	1
+Donphan	1
+Lilligant	1
+Togekiss	1
+Latias	1
+Beartic	1
+Gardevoir	1
+Gallade	1
+325	Lock-On	https://gamepress.gg/pokemongo/pokemon-move/lock-on
+Registeel	1
+Regirock	1
+Regice	1
+Porygon2	1
+Porygon-Z	1
+326	Thunder Fang	https://gamepress.gg/pokemongo/pokemon-move/thunder-fang
+Steelix	1
+Mightyena	1
+Hippowdon	1
+Arcanine	1
+327	Ice Fang	https://gamepress.gg/pokemongo/pokemon-move/ice-fang
+Mawile	1
+Mightyena	1
+Suicune	1
+Hippowdon	1
+Feraligatr	1
+Stoutland	0

@@ -128,6 +128,7 @@
     var csvPokemon = '';
     var id = 'sort-table'
     var countPokemonTables = $x('//table[@id="' + id + '"]').length;
+    console.log(countPokemonTables + ' tables')
     if (countPokemonTables >= 1) {
         //first table (non-legacy)
         var table1 = $x('//table[@id="' + id + '"]')[0];
@@ -140,21 +141,23 @@
                     linkTags.push(children[j]);
                 }
             }
-            csvPokemon += linkTags[1].innerText + '\n';
+            csvPokemon += linkTags[1].innerText + '\t' + '1' + '\n';
         }
         //second table (legacy)
-        if (countPokemonTables == 2) {
-            var table2 = $x('//table[@id="sort-table"]')[1];
-            var max2 = table2.tBodies[0].rows.length;
-            for (var i = 0; i < max2; i++) {
-                var linkTags = [];
-                var children = table2.tBodies[0].rows[i].cells[0].childNodes;
-                for (j = 0; j < children.length; j++) {
-                    if (children[j].tagName == "A") {
-                        linkTags.push(children[j]);
+        if (countPokemonTables >= 2) {
+            for (var k = 1; k < countPokemonTables; k++) {
+                var table2 = $x('//table[@id="sort-table"]')[k];
+                var max2 = table2.tBodies[0].rows.length;
+                for (var i = 0; i < max2; i++) {
+                    var linkTags = [];
+                    var children = table2.tBodies[0].rows[i].cells[0].childNodes;
+                    for (j = 0; j < children.length; j++) {
+                        if (children[j].tagName == "A") {
+                            linkTags.push(children[j]);
+                        }
                     }
+                    csvPokemon += linkTags[1].innerText + '\t' + '0' + '\n';
                 }
-                csvPokemon += linkTags[1].innerText + '\n';
             }
         }
     }
