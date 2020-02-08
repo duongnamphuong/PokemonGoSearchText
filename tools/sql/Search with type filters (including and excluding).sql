@@ -12,5 +12,24 @@ and not exists(
 	select 0 from PokeType pt where p.Id=pt.PokeId and p.FormId=pt.FormId and pt.TypeId in
 	(@Normal,@Fire,@Fighting,@Grass,@Poison,@Electric,@Ground,@Psychic,@Rock,@Ice,@Bug,@Dragon,@Ghost,@Dark,@Steel,@Fairy)--list of excluded ones.
 )
+
+--arlo
+--and p.Id in(303,6,9,208,212,149,373)
+--and p.Id in(303)
+--and p.Id in(6,9,208)
+--and p.Id in(212,149,373)
+
+--sierra
+--and p.Id in(374,103,131,319,275,229,65) and p.FormId=1
+--and p.Id in(374) and p.FormId=1
+--and p.Id in(103,131,319) and p.FormId=1
+--and p.Id in(275,229,65) and p.FormId=1
+
+--cliff
+--and p.Id in(127,105,139,466,248,260,389) and p.FormId=1
+--and p.Id in(127) and p.FormId=1
+--and p.Id in(105,139,466) and p.FormId=1
+--and p.Id in(248,260,389) and p.FormId=1
+
 group by p.Id, p.FormId, p.Species, p.Atk, p.Def, p.Hp, p.CandyId, p.IsLegend, p.IsMythic, p.IsBaby,p.CandyGainUponCatching
 having count(*)=2--1 for single type, 2 for dual type
