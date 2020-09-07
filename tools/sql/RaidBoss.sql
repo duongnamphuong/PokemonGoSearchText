@@ -7,8 +7,8 @@ declare @tier int=5
 declare @baseAtk float=(select p.Atk from Pokemon p where p.Id=@Id and p.FormId=@form)
 declare @baseDef float=(select p.Def from Pokemon p where p.Id=@Id and p.FormId=@form)
 declare @hp float=(select t.Hp from RaidTier t where t.Tier=@tier)
-declare @level float=(select t.[Level] from RaidTier t where t.Tier=@tier)
-declare @cpm float=(select m.Cpm from CpmMap m where m.LvDouble=cast(@level*2 as tinyint))
+declare @LvDouble float=(select t.LvDouble from RaidTier t where t.Tier=@tier)
+declare @cpm float=(select m.Cpm from CpmMap m where m.LvDouble=@LvDouble)
 
 declare @name nvarchar(255)=(select p.Species from Pokemon p where p.Id=@Id and p.FormId=@form)
 declare @cp int=floor((@baseAtk+15)*SQRT(@baseDef+15)*sqrt(@hp)/10)
